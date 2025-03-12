@@ -4,7 +4,7 @@ public class HaloGeneric
 {
     public static void SapaUser<T>(T user)
     {
-        Console.WriteLine($"Halo Bro {user}");
+        Console.WriteLine($"Halo Bray {user}");
     }
 }
 

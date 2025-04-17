@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNUUiEmOU9itqUUgUPYmcp15m5yZstlBYpKxDQ0y7F5crfZUnV8kTad248MHgTth8XI8bZjxUMT232BUtm0JGA==",
+  "success": true,
+  "projectFilePath": "/Users/mhmmddhimas/Projects/localizationnnn/localizationnnn/localizationnnn.csproj",
+  "expectedPackageFiles": [
+    "/Users/mhmmddhimas/.nuget/packages/orchardcore.localization.abstractions/1.0.0/orchardcore.localization.abstractions.1.0.0.nupkg.sha512",
+    "/Users/mhmmddhimas/.nuget/packages/orchardcore.localization.core/1.0.0/orchardcore.localization.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
